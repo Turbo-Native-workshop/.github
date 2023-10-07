@@ -1,9 +1,9 @@
-# Turbo Native workshop
+# Turbo Native crash course
 
-**Learn how to use the native iOS Turbo wrapper to build high-fidelity hybrid apps with native navigation.**
+**Your quick start guide to Turbo Native on iOS.**
 
-Hi, I'm [Joe](https://masilotti.com)! 👋 I'm running a Turbo Native workshop in December.
+Hi, I'm Joe, the [Turbo Native guy](https://masilotti.com)! 👋 I'm your instructor for this Turbo Native crash course.
 
-This organization manages the private repositories for the code we will write together. If you are attending a session you will be given access to the code.
+This organization manages the private repository for the code we will write together. If you are attending a session you will be given access to the code.
 
-If you'd like to attend the _next_ session in early 2023 then [register](https://masilotti.com/turbo-native-workshop/) or [send me an email](mailto:joe@masilotti.com).
+If you'd like to attend the _next_ session then [register online](https://masilotti.com/turbo-native-workshop/) or [send me an email](mailto:joe@masilotti.com).
